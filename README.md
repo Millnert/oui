@@ -2,7 +2,7 @@
 
 Usage:
 
-    ./ouidb.py <MAC>
+    ./oui.py <MAC>
 
 Example:
 
